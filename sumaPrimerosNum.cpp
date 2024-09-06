@@ -13,7 +13,7 @@ int main() {
 	return 0;
 }
 
-//FUNCION RECURSIVA PARA HALLAR FACTORIAL
+//FUNCION RECURSIVA PARA HALLAR SUMATORIA
 //f(x) = x + x-1 + x-2 + ... + 2 + 1
 int sumatoria(int numero) {
 	//CASO BASE
